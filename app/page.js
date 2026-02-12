@@ -1,5 +1,5 @@
-import ClaimItDemo from '@/components/ClaimItDemo';
+import ClaimIt from '@/components/ClaimIt';
 
 export default function Home() {
-  return <ClaimItDemo />;
+  return <ClaimIt />;
 }
